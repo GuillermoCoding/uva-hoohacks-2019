@@ -1,0 +1,22 @@
+{
+  "name": "uva-hoohacks-2019",
+  "version": "1.0.0",
+  "description": "Repo for uva-hoohacks-2019 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillermoCoding/uva-hoohacks-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillermoCoding/uva-hoohacks-2019/issues"
+  },
+  "homepage": "https://github.com/GuillermoCoding/uva-hoohacks-2019#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.5"
+  }
+}
